@@ -21,6 +21,10 @@ Kyara is currently only available in Spanish, but I do not rule out the possibil
 
 There will probably be a paid version in the future but there will ALWAYS be a free version that will offer many things.
 
+## ❗ What is the prefix?
+
+Kyara's prefix is: $
+
 ## 💍 What happens if I get an error or detect a security hole?
 
 You will be rewarded with a secret prize ;-)

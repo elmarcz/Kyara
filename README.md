@@ -27,7 +27,7 @@ Kyara's prefix is: $
 
 ## 💍 What happens if I get an error or detect a security hole?
 
-You will be rewarded with a secret prize ;-)
+If you let me know by discord you will receive a secret prize ;)
 
 # 🧢 Other Thinks
 

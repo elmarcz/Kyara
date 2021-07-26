@@ -4,6 +4,11 @@
 </p>
 <p align="center">Kyara is a bot in constant development for roleplaying with your friends. Her commands are for both roleplaying and staff.</p>
 
+<h3 align="center">🔨 Built with ⚙️</h3>
+<p align="center">
+   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='50px'/>
+  </p>
+
 # 📝 Description
 
 Kyara offers a large number of role commands and also includes +18 role commands. The bot is not only able to perform roleplay functions but can also ban members, nuke channels, delete messages, and provide information from your server. This bot is exclusively in English and in constant development. Its prefix is $ (Cannot be changed). In short, a bot oriented to anime lovers that will make your community better and more active.

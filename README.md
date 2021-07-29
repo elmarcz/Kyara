@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://discord.com/oauth2/authorize?client_id=867678960687251466&scope=bot&permissions=8" target="blank"><img src="https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/591cc975d78836d7e1e2b768a2642a28.webp" width="160" alt="Dot Logo" /></a>
-  <h1 align="center" href="https://discord.com/oauth2/authorize?client_id=867678960687251466&scope=bot&permissions=8">Kyara</h1>
+  <a href="https://top.gg/bot/867678960687251466" target="blank"><img src="https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/591cc975d78836d7e1e2b768a2642a28.webp" width="160" alt="Dot Logo" /></a>
+  <h1 align="center" href="https://top.gg/bot/867678960687251466">Kyara</h1>
 </p>
 <p align="center">Kyara is a bot in constant development for roleplaying with your friends. Her commands are for both roleplaying and staff.</p>
 
@@ -38,7 +38,7 @@ If you let me know by discord you will receive a secret prize ;)
 
 ## 💡 Add Kyara to your server
 
-- [Invitation link](https://discord.com/oauth2/authorize?client_id=867678960687251466&scope=bot&permissions=8)
+- [Kyara's Web](https://top.gg/bot/867678960687251466)
 
 ## 📱 Stay in touch
 

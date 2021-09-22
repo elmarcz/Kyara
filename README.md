@@ -40,8 +40,10 @@ If you let me know by discord you will receive a secret prize ;)
 
 - [Kyara's Web](https://top.gg/bot/867678960687251466)
 
-## 📱 Stay in touch
+### 👤 Stay in touch
+- [Website](https://elmarcz.github.io/portfolio/)
+- [Twitter](https://twitter.com/MarcMedrano15)
+- [Discord](https://discord.com/invite/zPSYDGVXxx)
+- [Instagram](https://www.instagram.com/marcmedranoz/)
 
-- Author - [Marc Medrano](https://www.flowcode.com/page/elmarc)
-- Personal Discord - [In development](https://discord.gg/qBXUtT8Kte)
-- Twitter - [@M4RC](https://twitter.com/MarcMedrano15)
+### 🔅 Made by Marc Medrano 

@@ -36,7 +36,7 @@ If you let me know by discord you will receive a secret prize ;)
 
 # 🧢 Other Thinks
 
-## 💡 Add Kyara to your server
+### 💡 Add Kyara to your server
 
 - [Kyara's Web](https://top.gg/bot/867678960687251466)
 
